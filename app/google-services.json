@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "960991485989",
+    "firebase_url": "https://crud-faozi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud-faozi",
+    "storage_bucket": "crud-faozi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960991485989:android:3dd8f6c7b0eda5662b9fcc",
+        "android_client_info": {
+          "package_name": "crud.faozi_20sa2161"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960991485989-69r6kruh0535hiqtiisc0mcsrm4dgkt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApvC9Zhvu4iy31LfOctXF-5B_cuTLRMBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960991485989-69r6kruh0535hiqtiisc0mcsrm4dgkt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
